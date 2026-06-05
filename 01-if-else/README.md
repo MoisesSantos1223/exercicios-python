@@ -1,4 +1,4 @@
-# Estruturas Condicionais
+# Estruturas Condicionais - if/else
 
 Exercícios desenvolvidos para praticar estruturas condicionais em Python.
 
