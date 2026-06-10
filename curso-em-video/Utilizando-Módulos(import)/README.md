@@ -1,7 +1,7 @@
 # Importação de Módulos
 
 <p align="center">
-  <img src="./aula-08-modulos.jpg" alt="Curso em Vídeo - Utilizando Módulos" width="800">
+  <img src="./maxresdefault.jpg" alt="Curso em Vídeo - Utilizando Módulos" width="800">
 </p>
 
 <p align="center">
