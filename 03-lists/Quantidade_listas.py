@@ -4,5 +4,5 @@ def mostrar_listas(lista):
     else:
         print(f"Quantidade de nomes cadastrado: {len(lista)}")
         
-nomes = ["Moises", "Henrique", "José"]
+nomes = []
 mostrar_listas(nomes)
