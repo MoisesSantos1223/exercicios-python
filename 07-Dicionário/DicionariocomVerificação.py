@@ -5,7 +5,7 @@ produto = {
 }
 
 print(f"Produto: {produto['Produto']}")
-print(f"Preço: {produto['Preco']}")
+print(f"Preço: {produto['Preco']:.2f}")
 print(f"Quantidade: {produto['Quantidade']}")
 
 if produto['Quantidade'] > 0:
