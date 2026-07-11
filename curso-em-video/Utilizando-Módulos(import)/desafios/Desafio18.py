@@ -8,3 +8,4 @@ an = float(input("Digite um número"))
 seno = math.sin(math.radians(an))
 
 print(f"O ângulo de {an} tem o SENO de {seno :.2f}")
+
